@@ -1,16 +1,5 @@
 # JWT with Flask
 
----
-
-This uses the following tech stack:
-- Flask
-- SQLAlchemy
-- Flask Smorest
-- Flask JWT
-- Flask Migrate with Alembic
-- Docker
-
----
 It concentrates on the following user operations:
 - User Registration
 - User Login
@@ -23,7 +12,7 @@ User Login
 ![alt text](https://github.com/ziyenl/flask-jwt/blob/main/docs/login.JPG?raw=true)
 
 User Navigation of App
-![alt text](https://github.com/ziyenl/flask-jwt/blob/main/docs/navigation_app.JPG?raw=true)
+![alt text](https://github.com/ziyenl/flask-jwt/blob/main/docs/navigating_app.JPG?raw=true)
 
 JWT Claim
 ![alt text](https://github.com/ziyenl/flask-jwt/blob/main/docs/jwt_claim.JPG?raw=true)
@@ -33,3 +22,14 @@ Revoke JWT
 
 Token Refresh
 ![alt text](https://github.com/ziyenl/flask-jwt/blob/main/docs/token_refresh.JPG?raw=true)
+
+
+---
+
+This uses the following tech stack:
+- Flask
+- SQLAlchemy
+- Flask Smorest
+- Flask JWT
+- Flask Migrate with Alembic
+- Docker
